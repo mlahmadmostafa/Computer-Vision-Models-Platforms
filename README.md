@@ -1,4 +1,10 @@
 # Computer-Vision-Models-Platforms
+
+Todo:
+- Upload VAE
+- Upload Localization
+- Upload Diffusion
+
 U-NetSegmentation
 This is a U-Net model that segments an image into different parts
 
