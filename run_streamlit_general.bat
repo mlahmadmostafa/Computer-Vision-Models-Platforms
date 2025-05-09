@@ -1,0 +1,1 @@
+conda activate torch_gpu && streamlit run Home.py
